@@ -16,7 +16,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bower": "^1.8.4",
+    "bower": "^1.8.8",
     "ganache-cli": "^6.1.0",
     "solc": "^0.4.23",
     "web3": "1.0.0-beta.34"
